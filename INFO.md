@@ -1,2 +1,2 @@
-git id awesome!new line
+git id awesome!
 new line
